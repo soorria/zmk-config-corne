@@ -14,28 +14,28 @@ layers:
   - P
   - \
   - ESC
-  - {t: A, h: LCTRL}
-  - {t: S, h: LALT}
-  - {t: D, h: LGUI}
-  - {t: F, h: LSHFT}
+  - A
+  - S
+  - D
+  - F
   - G
   - H
-  - {t: J, h: RSHFT}
-  - {t: K, h: RGUI}
-  - {t: L, h: RALT}
-  - {t: ;, h: RCTRL}
+  - J
+  - K
+  - L
+  - ;
   - ''''
   - LSHFT
-  - Z
-  - X
-  - C
-  - V
+  - {t: Z, h: LCTRL}
+  - {t: X, h: LALT}
+  - {t: C, h: LGUI}
+  - {t: V, h: LSHFT}
   - B
   - N
-  - M
-  - ','
-  - .
-  - /
+  - {t: M, h: RSHFT}
+  - {t: ',', h: RGUI}
+  - {t: ., h: RALT}
+  - {t: /, h: RCTRL}
   - fn
   - BSPC
   - symbol
